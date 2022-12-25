@@ -1,3 +1,18 @@
+About Expense Tracker
+A react app to keep track of your expense by tracking your transactions and income. 
+
+
+Features:
+Used Vanilla JS version, basic java script, we have add transaction that actually add an object to the array and we also have an add transaction DOM which will update the DOM. We don't have to manually create elements. We have an update value function which will create the total , expense value and then output it via an attractive frontend design. We have remove transition function. We use local storage here but here I have used state for the remove transaction function. In future we might use MongoDB or Postgres or something like that where data will come from Database. 
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
